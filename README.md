@@ -1,4 +1,5 @@
 🌦 Weather App – Project Summary
+
 This is a simple desktop weather application built using Python’s Tkinter library. It allows users to select an Indian state or union territory from a dropdown menu and retrieve real-time weather data such as:
 
 🌤 Weather Condition (e.g., Clear, Rainy)
